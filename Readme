@@ -20,4 +20,4 @@ Provide a comprehensive and quick view of overall sales performance.
 Analyze the performance of top products and most valuable customers.
 Track sales trends over time.
 ## Example Dashboard
-![Dashboard Example](Screenshot 2024-09-23 155128.png)
+![Dashboard Example](./Screenshot 2024-09-23 155128.png)
